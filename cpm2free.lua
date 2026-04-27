@@ -1,4 +1,3 @@
--- �F�4c���Gwc=��A:c�c���4c���t�wc}r�Azc=X��4�wc=�c=׋�t�vc���c=T����ic}n��4�vc=M�c
 GLabel = 'Car Parking 2'
 GProcess = 'com.olzhas.carparking.multyplayer2'
 
